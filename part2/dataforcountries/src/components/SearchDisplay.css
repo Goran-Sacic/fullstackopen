@@ -1,0 +1,12 @@
+.countries {
+  display: flex;
+  align-items: center;
+  margin: 0px;
+  padding: 0px;
+  column-gap: 10px;
+  height: 1.5rem;
+}
+
+li {
+  list-style: none;
+}
