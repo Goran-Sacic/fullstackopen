@@ -1,0 +1,9 @@
+.errorTrue {
+  color: red;
+  /*  border: 1px solid red; */
+}
+
+.errorFalse {
+  color: green;
+  /* border: 1px solid green; */
+}
